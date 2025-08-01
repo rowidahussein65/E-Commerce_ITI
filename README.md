@@ -21,7 +21,7 @@ This is a collaborative E-commerce web application built using React, Bootstrap,
 ## 🧱 Tech Stack
 
 - **Frontend**: React, React Router, Bootstrap
-- **Backend API**: Provided by Route
+- **Backend API**:
 - **State Management**: React Context API
 - **Version Control**: Git & GitHub
 
